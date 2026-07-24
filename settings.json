@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Dream",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Dream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "friendsservertia.falix.pro",
-    "port": 25216,
+    "ip": "absarispro.aternos.me",
+    "port": 32676,
     "version": "",
     "try-creative": false
   },
